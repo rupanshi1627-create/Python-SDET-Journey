@@ -30,7 +30,7 @@ Each topic will contain:
 ---
 
 ## 1. Python and Selenium Basics
-*(June 20 – July 11)*
+
 
 - Variables and Data Types
 - Strings
@@ -48,7 +48,7 @@ Each topic will contain:
 ---
 
 ## 2. Object-Oriented Programming (OOP)
-*(July 12 – July 25)*
+
 
 - Classes and Objects
 - Constructors

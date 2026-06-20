@@ -1,1 +1,1 @@
-# Python-SDET-Journey
+# SDET-Journey
